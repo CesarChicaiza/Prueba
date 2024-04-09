@@ -1,0 +1,15 @@
+D:\Maestria\Test\APIS\WebApplication_Test\BussinesLogic\bin\Debug\net7.0\BussinesLogic.deps.json
+D:\Maestria\Test\APIS\WebApplication_Test\BussinesLogic\bin\Debug\net7.0\BussinesLogic.dll
+D:\Maestria\Test\APIS\WebApplication_Test\BussinesLogic\bin\Debug\net7.0\BussinesLogic.pdb
+D:\Maestria\Test\APIS\WebApplication_Test\BussinesLogic\bin\Debug\net7.0\Shared.dll
+D:\Maestria\Test\APIS\WebApplication_Test\BussinesLogic\bin\Debug\net7.0\Shared.pdb
+D:\Maestria\Test\APIS\WebApplication_Test\BussinesLogic\obj\Debug\net7.0\BussinesLogic.csproj.AssemblyReference.cache
+D:\Maestria\Test\APIS\WebApplication_Test\BussinesLogic\obj\Debug\net7.0\BussinesLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Maestria\Test\APIS\WebApplication_Test\BussinesLogic\obj\Debug\net7.0\BussinesLogic.AssemblyInfoInputs.cache
+D:\Maestria\Test\APIS\WebApplication_Test\BussinesLogic\obj\Debug\net7.0\BussinesLogic.AssemblyInfo.cs
+D:\Maestria\Test\APIS\WebApplication_Test\BussinesLogic\obj\Debug\net7.0\BussinesLogic.csproj.CoreCompileInputs.cache
+D:\Maestria\Test\APIS\WebApplication_Test\BussinesLogic\obj\Debug\net7.0\BussinesLogic.csproj.CopyComplete
+D:\Maestria\Test\APIS\WebApplication_Test\BussinesLogic\obj\Debug\net7.0\BussinesLogic.dll
+D:\Maestria\Test\APIS\WebApplication_Test\BussinesLogic\obj\Debug\net7.0\refint\BussinesLogic.dll
+D:\Maestria\Test\APIS\WebApplication_Test\BussinesLogic\obj\Debug\net7.0\BussinesLogic.pdb
+D:\Maestria\Test\APIS\WebApplication_Test\BussinesLogic\obj\Debug\net7.0\ref\BussinesLogic.dll
